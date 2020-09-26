@@ -57,6 +57,8 @@ cookie с сессией, удалеят сессию при logout.
 * **API gateway**
 ##### Исходящие запросы
 * **User**, REST
+##### Ссылка на репозиторий
+[https://github.com/jawello/auth-otus](https://github.com/jawello/auth-otus)
 #### Books
 Сервис предоставляет доступ к книгам для пользователей, позволяет  
 добавлять книги магазинам.
