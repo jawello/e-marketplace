@@ -65,6 +65,8 @@ cookie с сессией, удалеят сессию при logout.
 ##### Входящий трафик
 * **API Gateway**
 * **Basket**, REST
+##### Ссылка на репозиторий
+[https://github.com/jawello/books-otus](https://github.com/jawello/books-otus)
 #### Basket
 Сервис для создания и наполнения корзины книгами. 
 ##### Входящий трафик
